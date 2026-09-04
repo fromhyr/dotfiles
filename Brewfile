@@ -5,6 +5,8 @@ brew 'p7zip'
 cask 'rider'
 cask 'visual-studio-code'
 
+cask 'dotnet-sdk'
+
 cask 'claude'
 cask 'claude-code'
 
