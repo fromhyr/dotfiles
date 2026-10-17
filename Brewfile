@@ -1,0 +1,19 @@
+cask 'rider'
+cask 'visual-studio-code'
+
+cask 'dotnet-sdk'
+
+cask 'claude'
+cask 'claude-code'
+
+brew 'git'
+brew 'stow'
+brew 'p7zip'
+
+cask 'wezterm'
+cask 'font-blex-mono-nerd-font'
+brew 'oh-my-posh'
+brew 'zsh-autosuggestions'
+brew 'zsh-syntax-highlighting'
+brew 'eza'
+brew 'zoxide'
