@@ -7,6 +7,7 @@ cask 'claude'
 cask 'claude-code'
 
 brew 'git'
+brew 'git-lfs'
 brew 'stow'
 brew 'p7zip'
 
